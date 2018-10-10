@@ -3,3 +3,7 @@ git branch 分支名   ==》创建分支名
 git branch -d 分支名  ==》删除分支名
 git checkout 分支名 ==》切换分支名
 merge  分支合并
+
+
+//一个项目从无到有  需要用到指令
+git clone 把远程仓库的数据拉倒本地仓库里
