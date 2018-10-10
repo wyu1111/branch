@@ -1,0 +1,4 @@
+git branch  
+git branch ��֧��   ==��������֧��
+git branch -d ��֧��  ==��ɾ����֧��
+git checkout ��֧�� ==���л���֧��
