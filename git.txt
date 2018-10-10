@@ -3,8 +3,19 @@ git branch 分支名   ==》创建分支名
 git branch -d 分支名  ==》删除分支名
 git checkout 分支名 ==》切换分支名
 merge  分支合并
+<<<<<<< HEAD
  merge branch 把名为branch的分支合并到当前分支上
 
 git pull指令
 
 //远程仓库==》本地仓库
+=======
+
+
+//一个项目从无到有  需要用到指令
+git clone 把远程仓库的数据拉倒本地仓库里
+>>>>>>> 0514e4709a7d4e1c37fb6ab5f27e078e0317d1c8
+
+
+
+撒点忽视的划等号
